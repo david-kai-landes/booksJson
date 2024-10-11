@@ -1,0 +1,51 @@
+{
+  "libraryName": "Book Shelf",
+  "location": "Home",
+  "books": [
+    {
+      "title": "The Catcher in the Rye",
+      "description": "A story about teenage rebellion, alienation, and identity.",
+      "author": "J.D. Salinger",
+      "genre": "Fiction",
+      "publishedDate": "1951-07-16",
+      "available": true,
+      "coverImage": "https://upload.wikimedia.org/wikipedia/commons/8/89/The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg"
+    },
+    {
+      "title": "Beloved",
+      "description": "A haunting tale of a mother's love and the scars of slavery.",
+      "author": "Toni Morrison",
+      "genre": "Historical Fiction",
+      "publishedDate": "1987-09-18",
+      "available": false,
+      "coverImage": "https://covers.shakespeareandcompany.com/97817848/9781784876432.jpg"
+    },
+    {
+      "title": "The Road",
+      "description": "A bleak post-apocalyptic journey of a father and son.",
+      "author": "Cormac McCarthy",
+      "genre": "Dystopian",
+      "publishedDate": "2006-09-26",
+      "available": false,
+      "coverImage": "https://pictures.abebooks.com/isbn/9780739482643-us.jpg"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "description": "A classic romantic novel about love, society, and the pressures of marriage.",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "publishedDate": "1813-01-28",
+      "available": true,
+      "coverImage": "https://cdn.kobo.com/book-images/b92c31a2-6731-436c-b532-5a3207fec2b6/353/569/90/False/pride-and-prejudice-the-original-1813-edition-a-jane-austen-classic-novel.jpg"
+    },
+    {
+      "title": "Normal People",
+      "description": "A modern love story exploring the complexity of relationships.",
+      "author": "Sally Rooney",
+      "genre": "Contemporary Fiction",
+      "publishedDate": "2018-08-28",
+      "available": true,
+      "coverImage": "https://static.bookofthemonth.com/covers/list/NormalPeople_200x300.jpg"
+    }
+  ]
+}
